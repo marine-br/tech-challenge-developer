@@ -44,5 +44,6 @@ Pontos Bônus:
 - Utilização de Conventional Commits.
 - Familiaridade com Vite. 😃
 - Utilização de Docker.
+- Como executar o projeto em ambiente de desenvolvimento.
 
 Envie seu teste para o e-mail: lucas@dotelematics.com
